@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Annany-12
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning C++
+- 👀 I’m proficient in C++, Rust, Python.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me at annany.sharma12@gmail.com
 
